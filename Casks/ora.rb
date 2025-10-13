@@ -2,7 +2,7 @@ cask "ora" do
   version "0.2.4"
   sha256 "dd2928059b2986089703bf0921c46484d2f10b7c3c1dfbffc7435dd95ac1c389"
 
-  url "https://github.com/the-ora/browser/releases/download/v#{version}/Ora.zip",
+  url "https://github.com/the-ora/browser/releases/download/v#{version}/Ora-Browser-#{version}.dmg",
       verified: "github.com/the-ora/browser/"
   name "Ora"
   desc "Fast and beautiful macOS browser."
