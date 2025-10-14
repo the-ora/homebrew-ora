@@ -1,6 +1,6 @@
 cask "ora" do
-  version "0.2.5"
-  sha256 "93fe60e45b004db352799129c864b03f7179ff729e45b14b2176bd481be669d3"
+  version "0.2.6"
+  sha256 "1c1f16557783bcdb8fd87fa9f3cad20edd31b9c5f85d148ed22d03add7fb2776"
 
   url "https://github.com/the-ora/browser/releases/download/v#{version}/Ora-Browser-#{version}.dmg",
       verified: "github.com/the-ora/browser/"
